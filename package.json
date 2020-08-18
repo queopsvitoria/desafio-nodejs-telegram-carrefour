@@ -1,0 +1,23 @@
+{
+  "name": "ChatBootInstagram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "jimp": "^0.16.0",
+    "mongoose": "^5.9.27",
+    "node-telegram-bot-api": "^0.50.0",
+    "node-zbarimg": "^1.0.1",
+    "path": "^0.12.7",
+    "qrcode-reader": "^1.0.4",
+    "telegram-bot-api": "^2.0.0"
+  }
+}

@@ -15,3 +15,11 @@ Toda a movimentação e feita pela camera do celular.
 * npm install mongoose
 * npm install dotenv
 * npm install node-qrcode
+* Sistema Operacional Windows/Linux
+	http://zbar.sourceforge.net/download.html
+	
+* Instalação do MongoDB
+
+### Como Executar o servidor
+Acesse a pasta desafio-nodejs-telegram-carrefour/scr
+digite no prompt -> node ./index.js

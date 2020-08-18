@@ -5,3 +5,13 @@ Solução para o desafio proposto pelo Carrefour/Digital Inovation One, para seu
 Toda a movimentação e feita pela camera do celular.
 
 #### Requisitos para rodar o projeto em sua máquina
+*	NodeJs
+		 npm install  node-telegram-api
+ 		 npm install  node-zbarimg
+		 npm install  jimp
+		 npm install qrcode-reader
+		 npm install fs
+		 npm install node-zbarimg
+		 npm install mongoose
+		 npm install dotenv
+		 npm install node-qrcode

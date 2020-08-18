@@ -21,5 +21,7 @@ Toda a movimentação e feita pela camera do celular.
 * Instalação do MongoDB
 
 ### Como Executar o servidor
-Acesse a pasta desafio-nodejs-telegram-carrefour/scr
-digite no prompt -> node ./index.js
+* Acesse a pasta desafio-nodejs-telegram-carrefour/scr
+		digite no prompt -> node ./index.js
+
+* Pronto! O servidor com a Chatbot está rodando localmente em sua máquina.

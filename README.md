@@ -25,3 +25,9 @@ Toda a movimentação e feita pela camera do celular.
 		digite no prompt -> node ./index.js
 
 * Pronto! O servidor com a Chatbot está rodando localmente em sua máquina.
+
+### Acessando o Chatbot no Telegram
+Abra o Telegram e pesquise por:
+@carrefour_qps_bot
+
+Pronto! Você já pode fazer suas pesquisas pela camera.
